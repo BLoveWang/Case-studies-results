@@ -1,4 +1,4 @@
-We give here the "Case-studies-results" in the manuscript "A Low-Order Bus Frequency Response Model and its Closed-Form Solution for Bulk Power Systems".
+We give here the "Case-studies-results" in the manuscript "Reduced Order Bus Frequency Response Model for Bulk Power Systems".
 
 In the first file "Results of New Englanad 39-Bus System.xlsx", there are four sheets giving the frequency response curves and corresponding frequency nadirs solved by PSASP, BFR, and SFR models.
 
